@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752503158763",
+    "project_id": "bagzzz-fc22b",
+    "storage_bucket": "bagzzz-fc22b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752503158763:android:691991c56c4901d0c5cbae",
+        "android_client_info": {
+          "package_name": "com.example.bagzzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbAZNW4-hCINOB_tCkevAnzkbMXIPaU7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
